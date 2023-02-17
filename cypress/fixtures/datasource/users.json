@@ -1,0 +1,34 @@
+{
+    "users": {
+      "usuario":"testuser",
+      "senha":"jr123",
+      "nome": "Admin",
+
+      "usuarioErrado": "testuser1",
+      "senhaErrada": "jr1234",
+
+      "JohnBrownBorrow":"10",
+      "JohnBrownRepayment":"33",
+      "JimGreenBorrow":"100",
+      "JimGreenRepayment":"0",
+      "JoeBlackBorrow":"10",
+      "JoeBlackRepayment":"10",
+      "JimRedBorrow":"75",
+      "JimRedRepayment":"45",
+      "MillaPietilaBorrow":"90",
+      "MillaPietilaRepayment":"55",
+      "SaminaVlasveldBorrow":"175",
+      "SaminaVlasveldRepayment":"145",
+      "GabrielleSanchezBorrow":"235",
+      "GabrielleSanchezRepayment":"55",
+      "StephenButlerBorrow":"98",
+      "StephenButlerRepayment":"42",
+      "WillardMedinaBorrow":"728",
+      "WillardMedinaRepayment":"451",
+      "ByronHansenBorrow":"328",
+      "ByronHansenRepayment":"109",
+      "MillaLaineBorrow":"203",
+      "MillaLaineRepayment":"78"
+      
+    }
+  }
